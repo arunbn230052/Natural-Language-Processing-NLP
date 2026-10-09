@@ -1,0 +1,61 @@
+document_id,text,category
+1,AI helps hospitals analyze patient records and support medical diagnosis.,healthcare
+2,Doctors use machine learning to detect disease patterns in medical images.,healthcare
+3,Hospitals deploy digital systems to improve patient care and appointment scheduling.,healthcare
+4,Artificial intelligence can assist clinicians but should not replace medical judgment.,healthcare
+5,Researchers study medical scans using deep learning and computer vision.,healthcare
+6,Public health teams analyze disease data to plan community health services.,healthcare
+7,Universities offer scholarships to students who meet academic requirements.,education
+8,"Students learn Python programming, data science, and artificial intelligence.",education
+9,The college announced admission dates for the next academic semester.,education
+10,Teachers use online learning platforms to share lessons and assignments.,education
+11,Research laboratories train students in robotics and natural language processing.,education
+12,Graduates prepare resumes and apply for internships in technology companies.,education
+13,The government published a public notice about civil service recruitment.,government
+14,The ministry announced a new policy for digital public services.,government
+15,Citizens can submit applications through the official government portal.,government
+16,Public agencies publish procurement notices and application deadlines.,government
+17,Local authorities issued a notice about road maintenance and public safety.,government
+18,The department released information about eligibility for a public grant.,government
+19,Banks use machine learning to identify unusual financial transactions.,finance
+20,Financial analysts compare market data and assess investment risk.,finance
+21,Digital payment systems help customers transfer money securely.,finance
+22,The company reported revenue growth and lower operating costs.,finance
+23,Fraud detection models flag suspicious activity for further review.,finance
+24,Small businesses use accounting software to track expenses and invoices.,finance
+25,Farmers use weather forecasts to plan planting and irrigation.,agriculture
+26,Smart sensors help monitor soil moisture and crop conditions.,agriculture
+27,Agricultural researchers develop methods to improve food production.,agriculture
+28,Climate change affects crop yields and rural livelihoods.,agriculture
+29,Satellite images help identify crop stress across large fields.,agriculture
+30,Farmers adopt digital tools to find market prices and buyers.,agriculture
+31,Robots use computer vision to navigate roads and avoid obstacles.,technology
+32,Software engineers build APIs and deploy applications to cloud servers.,technology
+33,Natural language processing helps computers analyze human language.,technology
+34,Word embeddings represent words as numerical vectors for machine learning.,technology
+35,Transformer models learn contextual representations from large text collections.,technology
+36,Cybersecurity teams monitor networks and investigate suspicious access.,technology
+37,"Tourists visit Nepal to explore mountains, temples, and cultural heritage.",tourism
+38,"Travel platforms help visitors plan routes, hotels, and activities.",tourism
+39,Local guides explain historical monuments and traditional festivals.,tourism
+40,"Mountain tourism depends on weather, safety, and responsible travel.",tourism
+41,Tourism agencies publish information about trekking permits and destinations.,tourism
+42,Visitors use digital maps to discover restaurants and attractions.,tourism
+43,Heavy rainfall can cause floods and landslides in vulnerable communities.,disaster
+44,Emergency teams share warnings and coordinate disaster response.,disaster
+45,Satellite imagery supports rapid assessment after earthquakes and floods.,disaster
+46,Early warning systems help communities prepare for severe weather.,disaster
+47,Local authorities publish evacuation guidance during natural disasters.,disaster
+48,"Disaster analysts combine weather data, maps, and reports to assess risk.",disaster
+49,Language models can summarize documents and answer questions about text.,technology
+50,A university notice describes course requirements and examination schedules.,education
+51,A health clinic announced new opening hours and vaccination services.,healthcare
+52,The agriculture department shared guidance about drought-resistant crops.,agriculture
+53,The finance ministry released information about taxes and public spending.,finance
+54,The tourism board promoted sustainable travel and heritage conservation.,tourism
+55,Engineers use fastText to represent rare words through character n-grams.,technology
+56,BERT and RoBERTa produce contextual representations of text.,technology
+57,DistilBERT is a smaller transformer designed for efficient inference.,technology
+58,Doc2Vec learns vector representations of documents and paragraphs.,technology
+59,GloVe learns word vectors from global word co-occurrence statistics.,technology
+60,ELMo produces context-sensitive word representations using language models.,technology

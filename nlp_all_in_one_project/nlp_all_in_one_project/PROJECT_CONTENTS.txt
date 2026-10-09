@@ -1,0 +1,5 @@
+Files:
+- app.py: Streamlit application with all-in-one NLP methods
+- requirements.txt: Python dependencies
+- README.md: Setup and usage instructions
+- data/sample_documents.csv: 60 labeled sample documents
